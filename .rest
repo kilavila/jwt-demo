@@ -1,6 +1,7 @@
 
 
 GET http://127.0.0.1:3000/user/phone/91192227
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJwaG9uZSI6IjkxMTkyMjI3IiwidXNlcklkIjoxLCJpYXQiOjE2Mzc4MzIwODEsImV4cCI6MTYzODAwNDg4MX0.SSb_NSrl5ZcyLjZJhcoiCUHBJgrSvVuy_5WazsepkqE
 
 ###
 

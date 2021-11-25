@@ -22,5 +22,9 @@ export class AppService {
             return accessToken;
         }
     }
+
+    async authenticate(token: string) {
+        console.log(this.jwtService.verify(token));
+    }
   
 }
